@@ -1,26 +1,5 @@
-class Student {
-  
-  class Student1 {
-    var sage = 0
-    def studage() : Unit = {
-    println("Student Age is :"+sage)
-    }
-  }
-}
 
-  class StudentAge{
-    sage = sage + 4
-    studage()
-    }
 
-  object example {
-    
-    def main(args: Array[String]) = {
-        x = new Student1()
-        x.sage
-        x.studage
-    }
-}
 
   
   
